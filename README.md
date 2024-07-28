@@ -10,10 +10,6 @@ Had the incredible opportunity to present at the Don Bosco 1st International Con
 </div>
 
 <div align="center">
-  <img src="Pic.13.jpg" alt="CyberSecurity Presentation" width="600">
-</div>
-
-<div align="center">
   <img src="Pic.14.jpg" alt="CyberSecurity Presentation" width="600">
 </div>
 
@@ -30,13 +26,6 @@ Had the incredible opportunity to present at the Don Bosco 1st International Con
 </div>
 
 <div align="center">
-  <img src="Pic.5.jpg" alt="CyberSecurity Presentation" width="600">
-</div>
-
-<div align="center">
   <img src="IMG-20240728-WA0123.jpg" alt="CyberSecurity Presentation" width="600">
 </div>
 
-<div align="center">
-  <img src="IMG-20240728-WA0121.jpg" alt="CyberSecurity Presentation" width="600">
-</div>
